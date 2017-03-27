@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="82.853506">
+<testcase classname="Multiple features tested" name="Multiple tests around WilliamHill's game page" time="82.853506">
+<system-out><![CDATA[Given WilliamHill's games page..............................................passed
+When Exploring the elements for the maincss file............................passed
+Then It should match with the current page version..........................passed
+When Displaying all the cookies available...................................passed
+Then We can access the cookie STACK and its value...........................passed
+When Login to the lobby using my credentials................................passed
+Then We are able to access with no problems.................................passed
+When Counting the games in the A-Z list.....................................passed
+Then We should see 371 games, and list them in the console..................passed
+]]></system-out>
+</testcase>
+</testsuite>
